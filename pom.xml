@@ -57,12 +57,12 @@
 	</developers>
 
 
-	<!-- <scm>
+	<scm>
 		<connection>scm:git:git@github.com:dwelch2344/spring-mvc-archetype.git</connection>
-		<developerConnection>scm:git:git@github.com:dwelch2344/spring-mvc-archetype.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:dwelch2344/spring-mvc-hibernate-archetype.git</developerConnection>
 		<url>git@github.com:dwelch2344/spring-mvc-archetype.git</url>
-	</scm> -->
-
+	</scm>
+	
 	<licenses>
 		<license>
 			<name>The Apache Software License, Version 2.0</name>
